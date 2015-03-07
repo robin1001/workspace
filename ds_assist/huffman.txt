@@ -1,0 +1,11 @@
+8
+a 5
+b 29
+c 7
+b 8
+d 14
+e 23
+f 3
+d 11
+---> This line has a few wptfd that mrrf changing usf the change command.
+---> This line has a few words that need changing using the change command.
