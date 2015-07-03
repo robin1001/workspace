@@ -79,5 +79,6 @@ void mem_free(void *ptr) {
 		n->prev = q;	
 		q->next = n;
 	}
+	head = q;
 }
 
